@@ -1,0 +1,9 @@
+.about-container {
+    padding: 2%;
+    text-align: center;
+}
+
+.about-header {
+    text-size: 2rem;
+    font-weight: bold;
+}
