@@ -1,6 +1,6 @@
 # Overview
 
-A portfolio lol
+A portfolio lol with kinda bad code
 
 # Getting Started with Create React App
 
