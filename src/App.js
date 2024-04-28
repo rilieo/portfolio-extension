@@ -1,7 +1,8 @@
 import "./App.css";
-import Hero from "./components/Hero";
-import Gallery from "./components/Gallery";
-import About from "./components/About";
+import Hero from "./sections/Hero";
+import Gallery from "./sections/Gallery";
+import About from "./sections/About";
+import Todo from "./sections/ToDo";
 
 import { images } from "./data";
 
@@ -11,6 +12,7 @@ function App() {
       <Hero />
       <About />
       <Gallery children={images} />
+      <Todo />
     </div>
   );
 }
