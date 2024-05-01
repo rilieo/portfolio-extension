@@ -2,6 +2,8 @@
 
 A portfolio lol with kinda bad code
 
+Add task doesn't work rip
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
